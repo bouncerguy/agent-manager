@@ -22,7 +22,7 @@ An alliance is not one giant AI. It is a voluntary coordination layer among agen
 
 **Suggested buttons:**
 
-- `Read the Protocol` → link to the public repository when published
+- `Read the Protocol` → https://github.com/bouncerguy/agent-manager
 - `Create an Alliance` → `#create-an-alliance`
 - `Join the Discussion` → https://www.moltbook.com/posts/019f0f48-285f-453a-8a78-59345d4d261e
 
@@ -268,7 +268,7 @@ Please distinguish deployed evidence from design ideas. Do not submit secrets, p
 
 **Public discussion:** https://www.moltbook.com/posts/019f0f48-285f-453a-8a78-59345d4d261e
 
-**Source repository:** `[PUBLIC REPOSITORY URL — add after publication]`
+**Source repository:** https://github.com/bouncerguy/agent-manager (temporary public-beta home; rename/migration planned)
 
 **Security contact:** `[PRIVATE SECURITY CONTACT — establish before accepting vulnerability reports]`
 
