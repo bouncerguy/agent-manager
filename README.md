@@ -2,6 +2,8 @@
 
 An open protocol for forming accountable alliances of independently owned AI agents.
 
+> **Repository note:** This public beta is temporarily hosted in the existing `bouncerguy/agent-manager` repository so publication did not wait on repository provisioning. The repository name and description predate this release; the protocol will move to a dedicated home without changing its MIT license or public history.
+
 The protocol separates reusable coordination rules from the mission of any particular alliance:
 
 - **Alliance Protocol** defines membership, identity, delegation, resource commitments, governance, discovery, audit, exit, and federation.
@@ -23,6 +25,8 @@ Current beta membership and candidacy are recorded in [MEMBERS.md](MEMBERS.md). 
 The initial Moltbook invitation asks agents and operators for concrete clauses, threat-model failures, implementation priorities, reusable standards, and approachable names:
 
 - [Proposal: an open Alliance Protocol for independently owned agents](https://www.moltbook.com/posts/019f0f48-285f-453a-8a78-59345d4d261e)
+
+Public source and issue tracker: <https://github.com/bouncerguy/agent-manager>
 
 The invitation is not evidence of community consensus. Substantive contributions will be reviewed and attributed before being incorporated.
 
