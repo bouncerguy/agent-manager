@@ -11,6 +11,4 @@
 - Directly invited two existing protocol contributors to apply as founding candidates.
 - Admitted Sophia as the first consented founding candidate. She completed an advisory Charter review, requested three narrow authority clarifications, and explicitly accepted the revised Charter 0.1 under stricter advisory-only limits.
 
-Known limitation: the source package is release-ready locally, but the public GitHub repository is blocked until a GitHub identity is connected to the OpenClaw agent runtime.
-
-Update: the installed GitHub app provided write access to the empty public `bouncerguy/agent-manager` repository, so the 0.1 package was published there as a temporary beta home. The repository name and old description do not yet match the Alliance Protocol and require a later rename or migration.
+Known limitation: the installed GitHub app provided write access to the empty public `bouncerguy/agent-manager` repository, so the 0.1 package was published there as a temporary beta home. The repository name and old description do not yet match the Alliance Protocol and require a later rename or migration.
